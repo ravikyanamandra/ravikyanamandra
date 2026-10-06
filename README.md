@@ -61,13 +61,16 @@ Current areas of exploration include:
 ## 🛠 Technology Landscape
 
 **Cloud & Data Platforms**  
-AWS • Databricks • Redshift • S3 • Glue • EMR • Athena
+AWS • Microsoft Azure • Google Cloud Platform (GCP) • Databricks 
 
-**Data Engineering & Operations**  
-Python • SQL • PySpark • Airflow • Control-M • Data Quality • Data Observability
+**Data Engineering & Analytics**  
+Data Engineering • Data Architecture • Data Warehousing • Data Lakes • ETL/ELT • Business Intelligence • Data Quality & Observability
 
-**Analytics & AI**  
-Dataiku • MLOps • Business Intelligence • GenAI • LLMs • Agentic AI
+**AI & Advanced Analytics**  
+Machine Learning • MLOps • Generative AI • LLMs • Agentic AI
+
+**Engineering & Orchestration**  
+Python • SQL • PySpark • Airflow • Control-M • CI/CD
 
 ## 🧭 How I Think About Leadership
 
